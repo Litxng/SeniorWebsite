@@ -1,1 +1,7 @@
-.
+.navbar-brand {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.navbar-nav a {
+    font-family: 'Muli', sans-serif;
+}
