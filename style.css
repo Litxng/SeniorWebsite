@@ -31,59 +31,45 @@
 
 #title-text {
     font-family: 'Anton', sans-serif;
-    font-size: 250px;
+    font-size: 150px;
     color: black;
 }
 
 .main-text {
     margin-top: 20px;
     width: 800px;
+    background-color: #dbfffc;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
 }
 
 #history {
-    background-color: #dbfffc;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .hist {
-    background-color: #dbfffc;
     font-family: Helvetica, sans-serif;
     font-size: 35px;
     font-weight: bold;
 }
 
 .recip {
-    background-color: #dbfffc;
     font-family: Helvetica, sans-serif;
     font-size: 35px;
     font-weight: bold;
 }
 
 .recipep1 {
-    background-color: #dbfffc;
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-}
-
-.ingr {
-    background-color: #dbfffc;
-    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 .recipep2 {
-    background-color: #dbfffc;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-}
-
-.instr {
-    background-color: #dbfffc;
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
 .other-recipe {
-    margin-top: -900px;
+    margin-top: -1045px;
 }
 
 .other-text {
