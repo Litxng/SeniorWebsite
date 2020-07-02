@@ -1,3 +1,5 @@
+/* nav bar fonts */
+
 .navbar-brand {
     font-family: 'Architects Daughter', cursive;
 }
@@ -5,4 +7,26 @@
 .navbar-nav a {
     font-family: 'Muli', sans-serif;
     font-size: 20px;
+}
+
+
+/* title images and text */
+
+.title-image {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#title-text {
+    font-family: 'Anton', sans-serif;
+    font-size: 250px;
+    color: black;
 }
